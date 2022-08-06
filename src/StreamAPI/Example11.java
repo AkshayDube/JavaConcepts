@@ -3,7 +3,7 @@ package StreamAPI;
 import java.util.List;
 
 public class Example11 {
-//print the length of each element in String List
+//Print the length of each element in String List
 	public static void main(String[] args) {
 		List.of("Akshay","Dubey","Akshay Dubey").stream()
 		.map(element->element.length())
