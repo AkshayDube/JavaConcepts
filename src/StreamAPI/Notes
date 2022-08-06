@@ -3,3 +3,22 @@
 2. Print all element in a list if it ends with "at"
 
 3.Filter out even and odd number in list using FP
+
+4. WAF to find the sum of all elements in the list using FP
+
+5. WAF to sum the even and odd elements separately in the list using FP
+
+6. Sort a List and print all the elements
+
+7.Print all the distinct elements in the list
+
+8.Find the square of all distinct elements in the list.
+
+9.Print square of first 10 numbers using IntStream.range(1,11) 
+
+10. Map all the elements in the string to lower-case and print them
+
+11.print the length of each element in String List
+
+12. Find the max and min element in the List
+
