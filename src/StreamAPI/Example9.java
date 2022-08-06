@@ -7,7 +7,6 @@ public class Example9 {
 	public static void main(String[] args) {
 	IntStream.range(1, 11).map(e->e*e)
 	.forEach(e->System.out.println(e));
-
 	}
 
 }
