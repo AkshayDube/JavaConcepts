@@ -1,0 +1,14 @@
+Example-1
+Create a generic class CustomList having addElement, removeElement and getElement generic method
+
+Example-2
+Create a generic method such that whatever is passed to it it will return the same.
+
+Example-3
+Create a generic method restricting to accept any list(ArrayList,LL or Vector) and duplicate the list and return the same
+
+Example-4 
+Create a generic method to add two numbers and return there sum.
+
+Example-5
+Create a generic method that accepts a Number list and return the sum of all element.
